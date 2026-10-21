@@ -1,0 +1,54 @@
+# Developer Knowledge Base
+
+My personal technical learning library for documenting concepts, code examples, debugging solutions, and interview preparation.
+
+The goal is to understand what I learn, retain knowledge, and quickly find it whenever I need to revise or solve a problem.
+
+## Quick Navigation
+
+| Category | Topics |
+|---|---|
+| Programming | Java, Python, JavaScript, TypeScript |
+| Frontend | React, React Native, Next.js |
+| Backend | Spring Boot, Node.js, FastAPI, REST APIs |
+| Databases | PostgreSQL, MongoDB, SQL, Redis |
+| Data Engineering | Apache Spark, PySpark, Kafka, ETL |
+| Computer Science | DSA, OOP, Operating Systems, Networking |
+| System Design | Architecture, Caching, Queues, Scalability |
+| Cloud & DevOps | AWS, Docker, CI/CD, Git |
+| Security | Authentication, Authorization, Application Security |
+| Interview Preparation | Coding Problems, Technical Q&A, Revision |
+| Daily Learning | Learning Logs, Mistakes, Discoveries |
+
+## How I Use This Repository
+
+1. Write technical concepts in my own words.
+2. Include practical code examples and real-world use cases.
+3. Record errors, debugging steps, and solutions.
+4. Add interview questions and important differences between concepts.
+5. Update existing notes instead of creating duplicates.
+6. Review notes regularly to reinforce what I learn.
+
+## Note Structure
+
+Each topic should include, where relevant:
+
+- What it is
+- Why it is used
+- How it works
+- Code examples
+- Real-world applications
+- Common mistakes and solutions
+- Interview questions
+- Quick revision points
+- References and documentation
+
+## Learning Log
+
+Maintain a daily record of what I studied, what I understood, what I struggled with, and what I need to revisit.
+
+## Guiding Principle
+
+**Learn → Understand → Practise → Document → Revise**
+
+This repository is a continuously growing reference library for my software engineering skills and career development.
